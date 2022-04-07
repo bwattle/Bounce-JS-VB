@@ -23,9 +23,9 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bounce-Callum", "Bounce-Cal
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS-Bounce", "JS-Bounce", "{7F985A3B-14EA-4E92-AAA4-6ADFC0223580}"
 	ProjectSection(SolutionItems) = preProject
-		JS-Bounce\bounce.html = JS-Bounce\bounce.html
 		JS-Bounce\fastclick.js = JS-Bounce\fastclick.js
 		JS-Bounce\game.css = JS-Bounce\game.css
+		JS-Bounce\index.html = JS-Bounce\index.html
 		JS-Bounce\init.js = JS-Bounce\init.js
 		JS-Bounce\normalize.css = JS-Bounce\normalize.css
 		JS-Bounce\README.md = JS-Bounce\README.md
