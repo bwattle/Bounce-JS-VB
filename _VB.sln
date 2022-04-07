@@ -23,17 +23,42 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bounce-Callum", "Bounce-Cal
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS-Bounce", "JS-Bounce", "{7F985A3B-14EA-4E92-AAA4-6ADFC0223580}"
 	ProjectSection(SolutionItems) = preProject
-		JS-Bounce\bounce-v201.html = JS-Bounce\bounce-v201.html
-		bounce.html = bounce.html
 		JS-Bounce\bounce.html = JS-Bounce\bounce.html
 		JS-Bounce\fastclick.js = JS-Bounce\fastclick.js
 		JS-Bounce\game.css = JS-Bounce\game.css
-		JS-Bounce\index.html = JS-Bounce\index.html
-		JS-Bounce\init-v201.js = JS-Bounce\init-v201.js
 		JS-Bounce\init.js = JS-Bounce\init.js
 		JS-Bounce\normalize.css = JS-Bounce\normalize.css
 		JS-Bounce\README.md = JS-Bounce\README.md
 		JS-Bounce\Web.config = JS-Bounce\Web.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS-Bounce-v201", "JS-Bounce-v201", "{F1B07CE6-35D7-40DC-B520-3B9B20747DA6}"
+	ProjectSection(SolutionItems) = preProject
+		JS-Bounce-v201\bounce.html = JS-Bounce-v201\bounce.html
+		JS-Bounce-v201\fastclick.js = JS-Bounce-v201\fastclick.js
+		JS-Bounce-v201\game.css = JS-Bounce-v201\game.css
+		JS-Bounce-v201\init.js = JS-Bounce-v201\init.js
+		JS-Bounce-v201\normalize.css = JS-Bounce-v201\normalize.css
+		JS-Bounce-v201\README.md = JS-Bounce-v201\README.md
+		JS-Bounce-v201\Web.config = JS-Bounce-v201\Web.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{68AB92E2-85A3-4116-A388-8A8259728926}"
+	ProjectSection(SolutionItems) = preProject
+		assets\background.png = assets\background.png
+		assets\batDeath.png = assets\batDeath.png
+		assets\batSpritesheet.png = assets\batSpritesheet.png
+		assets\countryside.mp3 = assets\countryside.mp3
+		assets\crosshair.png = assets\crosshair.png
+		assets\die.mp3 = assets\die.mp3
+		assets\gameOver.mp3 = assets\gameOver.mp3
+		assets\gameOver.ogg = assets\gameOver.ogg
+		assets\POL-countryside-short.ogg = assets\POL-countryside-short.ogg
+		assets\shot.mp3 = assets\shot.mp3
+		assets\shot.ogg = assets\shot.ogg
+		assets\shot.wav = assets\shot.wav
+		assets\tick.mp3 = assets\tick.mp3
+		assets\tick.ogg = assets\tick.ogg
 	EndProjectSection
 EndProject
 Global
