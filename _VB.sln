@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bounce", "Bounce\Bounce.vbproj", "{EB9603D5-79DA-433C-B541-E3B31DBB3675}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RootFiles", "RootFiles", "{9B159285-91F0-44CE-B6A4-C2D4F0022386}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		index.html = index.html
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bounce-v203-x150", "Bounce-v203\Bounce-v203-x150.vbproj", "{80DF9DE2-C5BD-49D4-8CAB-C6B780C0A0EC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bounce-v202-x83", "Bounce-v202\Bounce-v202-x83.vbproj", "{BB78EB5F-ED58-40B0-9C7C-C4F0D7879E34}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bounce-Ben", "Bounce-Ben\Bounce-Ben.vbproj", "{862B089B-C791-45A8-8357-AEF26872CC28}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bounce-Callum", "Bounce-Callum\Bounce-Callum.vbproj", "{4FC209EF-D3A0-4798-899C-9D125BDA024E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS-Bounce", "JS-Bounce", "{7F985A3B-14EA-4E92-AAA4-6ADFC0223580}"
+	ProjectSection(SolutionItems) = preProject
+		JS-Bounce\bounce-v201.html = JS-Bounce\bounce-v201.html
+		bounce.html = bounce.html
+		JS-Bounce\bounce.html = JS-Bounce\bounce.html
+		JS-Bounce\fastclick.js = JS-Bounce\fastclick.js
+		JS-Bounce\game.css = JS-Bounce\game.css
+		JS-Bounce\index.html = JS-Bounce\index.html
+		JS-Bounce\init-v201.js = JS-Bounce\init-v201.js
+		JS-Bounce\init.js = JS-Bounce\init.js
+		JS-Bounce\normalize.css = JS-Bounce\normalize.css
+		JS-Bounce\README.md = JS-Bounce\README.md
+		JS-Bounce\Web.config = JS-Bounce\Web.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9603D5-79DA-433C-B541-E3B31DBB3675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9603D5-79DA-433C-B541-E3B31DBB3675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9603D5-79DA-433C-B541-E3B31DBB3675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9603D5-79DA-433C-B541-E3B31DBB3675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DF9DE2-C5BD-49D4-8CAB-C6B780C0A0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DF9DE2-C5BD-49D4-8CAB-C6B780C0A0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DF9DE2-C5BD-49D4-8CAB-C6B780C0A0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DF9DE2-C5BD-49D4-8CAB-C6B780C0A0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB78EB5F-ED58-40B0-9C7C-C4F0D7879E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB78EB5F-ED58-40B0-9C7C-C4F0D7879E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB78EB5F-ED58-40B0-9C7C-C4F0D7879E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB78EB5F-ED58-40B0-9C7C-C4F0D7879E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862B089B-C791-45A8-8357-AEF26872CC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862B089B-C791-45A8-8357-AEF26872CC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862B089B-C791-45A8-8357-AEF26872CC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862B089B-C791-45A8-8357-AEF26872CC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC209EF-D3A0-4798-899C-9D125BDA024E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC209EF-D3A0-4798-899C-9D125BDA024E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC209EF-D3A0-4798-899C-9D125BDA024E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC209EF-D3A0-4798-899C-9D125BDA024E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCBFD53-27B9-4375-B4DF-450AD33DA93C}
+	EndGlobalSection
+EndGlobal
